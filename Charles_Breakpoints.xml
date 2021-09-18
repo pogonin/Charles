@@ -10,6 +10,7 @@
         <port>5005</port>
         <path>/get_method</path>
       </location>
+      <scheme>GET</scheme>
       <request>true</request>
       <response>false</response>
       <enabled>true</enabled>
@@ -21,6 +22,7 @@
         <port>5005</port>
         <path>/user_info_3</path>
       </location>
+      <scheme>POST</scheme>
       <request>false</request>
       <response>true</response>
       <enabled>true</enabled>
@@ -32,6 +34,7 @@
         <port>5005</port>
         <path>/object_info_1</path>
       </location>
+      <scheme>GET</scheme>
       <request>false</request>
       <response>true</response>
       <enabled>true</enabled>
@@ -43,6 +46,7 @@
         <port>5005</port>
         <path>/object_info_3</path>
       </location>
+      <scheme>GET</scheme>
       <request>false</request>
       <response>true</response>
       <enabled>true</enabled>
@@ -54,6 +58,7 @@
         <port>5005</port>
         <path>/object_info_4</path>
       </location>
+      <scheme>GET</scheme>
       <request>false</request>
       <response>true</response>
       <enabled>true</enabled>
@@ -65,6 +70,7 @@
         <port>5005</port>
         <path>/user_info_2</path>
       </location>
+      <scheme>POST</scheme>
       <request>false</request>
       <response>true</response>
       <enabled>true</enabled>
